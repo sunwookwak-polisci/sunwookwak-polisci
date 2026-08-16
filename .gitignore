@@ -1,15 +1,25 @@
+# R / RStudio
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-.claude
+
+# Local-only agent files
+.claude/
+.cursor/
+AGENTS.md
 CLAUDE.md
 
-/.quarto/
+# macOS
 .DS_Store
-*_files/
 
+# Quarto cache, per-render figure bundles, notebook intermediates
+.quarto/
+*_files/
 **/*.quarto_ipynb
+
+# Unused site index — search is off in _quarto.yml, but Quarto still writes this
+docs/search.json
 
 # LaTeX intermediates from the lualatex CV pipeline
 *.aux
@@ -21,3 +31,4 @@ CLAUDE.md
 *.fdb_latexmk
 *.bbl
 *.blg
+*.xdv

@@ -1,9 +1,15 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - cv.qmd
+    - cv_source.qmd
 
 website:
   title: "Sunwoo Kwak's Website"
+  search: false
   navbar:
     right:
       - href: index.qmd

@@ -27,14 +27,14 @@ format:
 ---
 
 \begin{center}
-(Updated: May 23, 2026)
+(Updated: August 16, 2026)
 \end{center}
 
 ```{=latex}
 \begin{rSection}{Education}
 ```
 
-**M.A. in Political Science** \hfill (Expected: 2026)\
+**M.A. in Political Science** \hfill 2026\
 Department of Political Science, Yonsei University
 
 **B.A. in Political Science and International Relations** \hfill 2025\
@@ -48,9 +48,11 @@ Underwood International College, Yonsei University
 \begin{rSection}{RESEARCH INTERESTS}
 ```
 
-- **American Politics** and **Congress**
-- **Comparative Politics** and **Legislative Institutions**
-- **Elections** and **Public Opinion**
+- **American Politics**
+- **Legislative Studies**
+- **Congress**
+- **Elections**
+- **Public Opinion**
 
 
 ```{=latex}
@@ -74,8 +76,6 @@ Underwood International College, Yonsei University
 \begin{rSection}{WORKING PAPERS}
 ```
 "Who are the People? A Computational History of Democracy" (with Hyeongjae Lee, Seonwoo Ahn, Jisung Yoon, June Jeon, and Taegyoon Kim)
-
-"Signaling Through Donors: How Primary Challenge Contributions Shape Congressional Behavior"
 
 "Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho)
 
@@ -142,9 +142,9 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 
 **Lab Member** (Department of Political Science, Yonsei University)
 
-- Applied Political Methodology Lab (Fall 2024--; *Lab Manager since Fall 2025*)
+- Applied Political Methodology Lab (Fall 2024--Spring 2026)
 
-- Qualities of Democracy Lab (Fall 2023--)
+- Qualities of Democracy Lab (Fall 2023--Spring 2026)
 
 ```{=latex}
 \end{rSection}
@@ -170,7 +170,7 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 
 \begin{rSection}{COMPUTATIONAL SKILLS}
 ```
-**R, Stata, Python, LaTeX, Quarto**
+**R, Python, LaTeX, Quarto**
 
 ```{=latex}
 \end{rSection}
