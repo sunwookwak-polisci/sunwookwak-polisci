@@ -32,3 +32,5 @@ docs/search.json
 *.bbl
 *.blg
 *.xdv
+
+/.quarto/
